@@ -1,24 +1,13 @@
-# cyangate
+******************************  CYAN GATE Demo Project *********************************************
 
-## Project setup
-```
-npm install
-```
+Projeyi çalıştırdıktan sonra   
+      -email
+      -password  bilgilerinizi login olmak için isteyecektir.
+                
+                
+ Eğer yanlış email girerseniz Ana Sayfaya giremeyeceksiniz.
+ Doğru bir şekilde giriş yapmak için email bilgisini şu şekilde giriniz.  
+ Email: "eve.holt@reqres.in"   
+ Password kısmına istediğinizi girebilirsiniz.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+                
