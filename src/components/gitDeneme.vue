@@ -2,10 +2,10 @@
 
     <div className="card m-2" style=" width:18em; background-color:lightgray;">
    acem kızı acem kızı sarmaşık güllere dolandım
-      one more commit and please smile to me
+      one more commit
       yeni yeni
 
-      deneenendlsnaklfndksjanfkljasnflkjdsjdflkjahyaktın beni bir bakışta  yanıorum yanıyoru gonca güle acem şalı ince bele nail oldum gonca güle acem şalı ince bele
+      şu anda deneme branchinde yiz ve yeni commit yaoıyorum.
     </div>
 
 </template>
