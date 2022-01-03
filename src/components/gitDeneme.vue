@@ -7,6 +7,8 @@
 
       şu anda deneme branchinde yiz ve yeni commit yaoıyorum.
       nail oldum ince güle
+      haberler nasıl dostum
+
     </div>
 
 </template>
