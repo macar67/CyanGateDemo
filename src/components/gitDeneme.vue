@@ -6,6 +6,7 @@
       yeni yeni
 
       şu anda deneme branchinde yiz ve yeni commit yaoıyorum.
+      nail oldum ince güle
     </div>
 
 </template>
