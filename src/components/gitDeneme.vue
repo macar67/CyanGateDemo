@@ -8,7 +8,7 @@
       şu anda deneme branchinde yiz ve yeni commit yaoıyorum.
       nail oldum ince güle
       haberler nasıl dostum
-
+ how do you do ??
     </div>
 
 </template>
